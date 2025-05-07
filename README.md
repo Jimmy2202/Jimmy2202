@@ -10,6 +10,7 @@
 <img src="https://i.imgur.com/a0c1jMS.png" width="100" heigth="100"></img>
 <img src="https://i.imgur.com/rtjYk6K.png" width="100" heigth="100"></img>
 <img src="https://i.imgur.com/sz8A7eY.png" width="100" heigth="100"></img>
+<img src="https://i.imgur.com/e8gnHGT.jpeg" width="100" heigth="100"></img>
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jimmy2202&theme=github_dark)](https://profile-summary-for-github.com/user/Jimmy2202)
 
