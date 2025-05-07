@@ -13,8 +13,6 @@
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jimmy2202&theme=github_dark)](https://profile-summary-for-github.com/user/Jimmy2202)
 
-## Principais repositórios dos principais projetos(clique nos badges para ver o repositório):
-
 # 🎯 Meus Projetos no GitHub
 
 | Projeto         | Link |
