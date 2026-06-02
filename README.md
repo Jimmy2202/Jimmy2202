@@ -29,6 +29,8 @@
 | [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-gold)](https://github.com/Jimmy2202/Personal-Portfolio) | [Repositório](https://github.com/Jimmy2202/Personal-Portfolio) |
 | [![HorrorSite Front](https://img.shields.io/badge/HorrorSite%20Front-teal)](https://github.com/Jimmy2202/HorrorSiteFront) | [Repositório](https://github.com/Jimmy2202/HorrorSiteFront) |
 | [![HorrorSite BackEnd](https://img.shields.io/badge/HorrorSite%20BackEnd-silver)](https://github.com/Jimmy2202/HorrorSiteBackEnd) | [Repositório](https://github.com/Jimmy2202/HorrorSiteBackEnd) |
+| [![FloatZen-Front](https://img.shields.io/badge/FloatZen%20Front-purple)](https://jimmy2202.github.io/FloatZenFront/) | [Repositório](https://github.com/Jimmy2202/FloatZenFront) |
+| [![FloatZen-Back](https://img.shields.io/badge/FloatZen%20Front-purple)](https://jimmy2202.github.io/FloatZenFront/) | [Repositório](https://github.com/Jimmy2202/FloatZenBack) |
 | [![Codes](https://img.shields.io/badge/Codes-limegreen)](https://github.com/Jimmy2202/Codes) | [Repositório](https://github.com/Jimmy2202/Codes) |
 
 
